@@ -16,7 +16,7 @@ except:
 
 #trying authentication
 try:
-    driver.get("http://172.16.1.1:8090/")
+    driver.get("http://192.168.254.1:8090/httpclient.html")
     time.sleep(0.5)
     driver.find_element(By.NAME, "username").send_keys(username)
     driver.find_element(By.NAME, "password").send_keys(password)
