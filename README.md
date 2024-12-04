@@ -1,4 +1,4 @@
-# Hostel-Wifi-Login-Automation
+# College-Wifi-Login-Automation
 ----------------------------------------------------------------------------------------------------------------------
 
 # Installation Steps:
