@@ -21,3 +21,6 @@ chmod +x ./script.sh
 # NOTE:
 ### For macos users, during setup you will be asked if you are on an ARM or Intel processor.
 ### User name and passwored are stored locally and as plain text.
+### This program can run in a headless browser (no annoying GUI pop-up), this is disabled by default, to change this simply change the variable 
+#### ``` headless_mode = True``` 
+### in login.py
