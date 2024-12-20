@@ -5,7 +5,7 @@ import time
 from setup import user_data_read
 import sys, os
 
-headless_mode = False
+headless_mode = True
 
 #chromedriver for particular platformz
 try:
